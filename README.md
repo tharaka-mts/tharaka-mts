@@ -31,7 +31,7 @@
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 📝 I regularly write articles on [Dev.to](https://dev.to/)
 
 - 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
 
@@ -48,14 +48,14 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=tharaka-mts&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tharaka-mts&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tharaka-mts&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharaka-mts&layout=donut-vertical&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
