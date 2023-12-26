@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Tharaka</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Tharaka Sandaruwan</h1></summary>
   </ul>
 </div>
 
@@ -25,11 +25,13 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Express, Nodejs, MongoDB, Postgres**
+- 🔭 I’m currently working on **AWS, React, NextJs, Express, Nodejs, MongoDB, Postgres**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
 - ☁️ I've keen interest in AI & cloud computing. So,I'm learning **AWS & Tensorflow**
+
+- 📝 I regularly write articles on [Dev.to](https://dev.to/tharakamts)
 
 - 💬 Ask me about **AWS, react, Express, nodejs, mongoDB**
 
