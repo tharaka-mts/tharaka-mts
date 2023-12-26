@@ -25,11 +25,13 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Express, Nodejs, MongoDB, Postgres**
+- 🔭 I’m currently working on **AWS, React, NextJs, Express, Nodejs, MongoDB, Postgres**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
 - ☁️ I've keen interest in AI & cloud computing. So,I'm learning **AWS & Tensorflow**
+
+- 📝 I regularly write articles on [Dev.to](https://dev.to/tharakamts)
 
 - 💬 Ask me about **AWS, react, Express, nodejs, mongoDB**
 
