@@ -25,7 +25,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, NextJs, Express, Nodejs, MongoDB, Postgres**
+- 🔭 I’m currently working on **AWS, React, NextJs, Express, Nodejs, MongoDB, Postgres, Redis**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
@@ -33,7 +33,7 @@
 
 - 📝 I regularly write articles on [Dev.to](https://dev.to/tharakamts)
 
-- 💬 Ask me about **AWS, react, Express, nodejs, mongoDB**
+- 💬 Ask me about **AWS, reactjs, Nextjs Express, nodejs, mongoDB**
 
 - 📫 Feel free to reach me out **tharaka.mts@gmail.com**
 
